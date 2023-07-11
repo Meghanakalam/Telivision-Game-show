@@ -9,3 +9,17 @@ SAMPLE OUTPUTS
 
 ![Image 1](https://github.com/Meghanakalam/Telivision-Game-show/assets/98293655/b7e97307-0306-406c-b5f8-49a24ac47bcd)
 
+
+
+![image 2](https://github.com/Meghanakalam/Telivision-Game-show/assets/98293655/767df568-ff74-456e-a6c1-59984a96e227)
+
+
+
+![image 3](https://github.com/Meghanakalam/Telivision-Game-show/assets/98293655/5d1c60a4-26c4-4678-b5be-a0804462b5e8)
+
+
+
+
+![image 4](https://github.com/Meghanakalam/Telivision-Game-show/assets/98293655/5c220cfc-1e04-4e9a-b4b6-04e757215c57)
+
+EVEN IF A WRONG ANSWER IS GIVEN IT WILL POP UP A MESSAGE LETTING US KNOW ITS A WRONG ANSWER
